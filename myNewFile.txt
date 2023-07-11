@@ -1,2 +1,3 @@
 Hello, This is my new file.
 Sepatutnya conflict.
+This is a new line from server repo (gitHub).
